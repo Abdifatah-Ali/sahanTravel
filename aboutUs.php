@@ -138,28 +138,6 @@ Mogadishu Travel Agency  -->
                             <p><span class="ali">Facebook:</span>Abdifatah Ali</p>
 
                         </td>
-
-                        <!-- <td> <img class="imga" src="img/abdi.jpg" width="150" height="150">
-                            <p> <span class="ali"> Name:</span> Abdirahman ahmed mohamud </p>
-                            <p> <span class="ali">contact:</span> +252618015295 </p>
-                            <p><span class="ali">Email:</span> Armaan95@gmail.com</p>
-                            <p><span class="ali">Facebook:</span> Abdirahman ahmed mohamud</p>
-                        </td>
-
-
-                        <td> <img class="imga" src="img/daadiir.jpg" width="150" height="150">
-                            <p> <span class="ali"> Name:</span> C/qaadir xasan maxamed </p>
-                            <p> <span class="ali">contact:</span> +2526615449252 </p>
-                            <p><span class="ali">Email:</span> daadkhasa@gmail.com</p>
-                            <p><span class="ali">Facebook:</span> Cabdulqaadir xasan maxamed</p>
-                        </td>
-
-                        <td> <img class="imga" src="img/fiyoore.jpg" width="150" height="150">
-                            <p> <span class="ali"> Name:</span> Farhan abdulkadir abdullahi </p>
-                            <p> <span class="ali">contact:</span>+252618713722</p>
-                            <p><span class="ali">Email:</span> fiyore89@gmail.com</p>
-                            <p><span class="ali">Facebook:</span> farhaan cabdul qaadir</p>
-                        </td> -->
                     </tr>
 
                 </table>
